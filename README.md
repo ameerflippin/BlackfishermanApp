@@ -1,3 +1,4 @@
+[Blackfisherman.com Slidedeck Short Version 1.2 2nd.pdf](https://github.com/ameerflippin/BlackfishermanApp/files/10552147/Blackfisherman.com.Slidedeck.Short.Version.1.2.2nd.pdf)
 # BlackfishermanApp
 Blackfisherman.com App is being developed to include ChatGPT and GPT-3 features.
 // Comments Blackfisherman.com Ai App is a new grocery delivery app which is being launched with a virtual credit card to be integrated 
